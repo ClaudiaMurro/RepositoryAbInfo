@@ -1,3 +1,5 @@
 provo a modificare file su un ramo
 provo a risolvere un conflitto
-
+<<<<<<< HEAD
+=======
+>>>>>>> ramo2
